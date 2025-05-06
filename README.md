@@ -1,10 +1,6 @@
 # AI-Powered Chatbot (Python)
 ---
 
-# Objective
-Create an AI-powered chatbot to automate responses to customer queries using NLP.
----
-
 # Features
 - NLP-powered intent recognition
 - Automatic response generation
