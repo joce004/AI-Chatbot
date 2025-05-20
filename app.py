@@ -9,7 +9,7 @@ app = Flask(__name__)
 HTML_PAGE = """
 <!doctype html>
 <title>AI Chatbot</title>
-<h1>AI-Powered Chatbot 🤖</h1>
+<h1>AI-Powered Chatbot </h1>
 <div style="max-width:600px;">
   <input id="user_input" type="text" style="width:80%;" placeholder="Ask something..." autofocus>
   <button onclick="send()">Send</button>
