@@ -9,11 +9,11 @@ from sklearn.naive_bayes import MultinomialNB
 
 nltk.download('punkt')
 
-# 1️⃣ Load intents
+# Load intents
 with open('intents.json') as file:
     data = json.load(file)
 
-# 2️⃣ Prepare training data
+# Prepare training data
 patterns = []
 tags = []
 responses = {}
@@ -28,17 +28,17 @@ vectorizer = CountVectorizer(tokenizer=nltk.word_tokenize)
 X = vectorizer.fit_transform(patterns)
 y = np.array(tags)
 
-# 3️⃣ Train classifier
+# Train classifier
 clf = MultinomialNB()
 clf.fit(X, y)
 
-# 4️⃣ Predict intent
+# Predict intent
 def predict_intent(text):
     X_test = vectorizer.transform([text])
     pred_tag = clf.predict(X_test)[0]
     return pred_tag
 
-# 5️⃣ Get response
+# Get response
 def get_response(user_input):
     intent = predict_intent(user_input)
     return random.choice(responses[intent])
